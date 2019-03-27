@@ -13,4 +13,8 @@ pip install wikiquote
 
 The wikiquote library provides us the quote of the day. It returns the quote and the author in the form of tuples. Wikiquote also supports various features other than the quote of the day.
 
+run the code as
 
+python manage.py runserver 
+
+~This will simply run the file on the localhost. Change the path to localhost_url/quotes
